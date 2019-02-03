@@ -23,23 +23,23 @@ These signals were used to estimate variables of the feature vector for each pat
 
 List of variables
 
-tBodyAcc-XYZ  
-tGravityAcc-XYZ  
-tBodyAccJerk-XYZ  
-tBodyGyro-XYZ  
-tBodyGyroJerk-XYZ  
-tBodyAccMag  
-tGravityAccMag  
-tBodyAccJerkMag  
-tBodyGyroMag  
-tBodyGyroJerkMag  
-fBodyAcc-XYZ  
-fBodyAccJerk-XYZ  
-fBodyGyro-XYZ  
-fBodyAccMag  
-fBodyAccJerkMag  
-fBodyGyroMag  
-fBodyGyroJerkMag  
+  * tBodyAcc-XYZ  
+  * tGravityAcc-XYZ  
+  * tBodyAccJerk-XYZ  
+  * tBodyGyro-XYZ  
+  * tBodyGyroJerk-XYZ  
+  * tBodyAccMag  
+  * tGravityAccMag  
+  * tBodyAccJerkMag  
+  * tBodyGyroMag  
+  * tBodyGyroJerkMag  
+  * fBodyAcc-XYZ  
+  * fBodyAccJerk-XYZ  
+  * fBodyGyro-XYZ  
+  * fBodyAccMag  
+  * fBodyAccJerkMag  
+  * fBodyGyroMag  
+  * fBodyGyroJerkMag  
 
 Use of this dataset must be acknowledged by referencing the following publication: 
 
