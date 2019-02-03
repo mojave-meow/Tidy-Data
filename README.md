@@ -1,2 +1,4 @@
 # Tidy-Data
 Programming Assignment for Getting and Cleaning Data
+
+This repository contains three files based on a dataset from the University of California, Irvine. Thirty volunteers from the ages of 19-48 performed six activities while wearing a Samsung Galaxy S smartphone on their waist. These activities were: (1) walking, (2) walking upstairs, (3) walking downstairs, (4) sitting, (5) standing, and (6) laying. Using the accelerometer and gyroscope embedded in the smartphones, researchers measured acceleration and velocity across three spatial axes. The three files are: (1) R code for organizing and reshaping the dataset, (2) text file with table resulting from this code, and (3) code book defining the variables in the dataset.
