@@ -2,14 +2,14 @@ Codebook for run_analysis.R and tidydata.txt
 
 Description of subjects and activities
 
-subject: identifier of the volunteer who participated in the study
-activity: type of spatial movement correpsonding to a numeric label
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+subject: identifier of the volunteer who participated in the study  
+activity: type of spatial movement correpsonding to a numeric label  
+  * 1 WALKING  
+  * 2 WALKING_UPSTAIRS  
+  * 3 WALKING_DOWNSTAIRS  
+  * 4 SITTING  
+  * 5 STANDING  
+  * 6 LAYING  
 
 Description of variables
 
@@ -23,23 +23,23 @@ These signals were used to estimate variables of the feature vector for each pat
 
 List of variables
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyAcc-XYZ  
+tGravityAcc-XYZ  
+tBodyAccJerk-XYZ  
+tBodyGyro-XYZ  
+tBodyGyroJerk-XYZ  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
 Use of this dataset must be acknowledged by referencing the following publication: 
 
