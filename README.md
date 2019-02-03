@@ -6,6 +6,6 @@ This repository contains files based on a dataset from the University of Califor
 The files in this repository are:
 
   * run_analysis.R: R code for organizing and reshaping the dataset  
-  Six data frames from the UCI HAR dataset were merged and given more descriptive column names. Mean and standard variation variables were extracted. The resulting data frame was melted and recast to calculate the mean for each variable by subject and activity. This tidy dataset was written as a text file.
+  Six text files from the UCI HAR Dataset were downloaded and read into R. The data frames were merged and given more descriptive column names. Mean and standard variation variables were extracted. The resulting data frame was melted and recast to calculate the mean for each variable by subject and activity. This tidy dataset was written as a text file.
   * tidydata.txt: text file with tidy dataset resulting from the R code
   * codebook.md: text file describing the variables in the dataset
