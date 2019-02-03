@@ -1,4 +1,4 @@
-**Codebook for tidydata.txt**
+# **Codebook for Tidy-Data**
 
 The descriptions found in this codebook are originally found in the UCI HAR Dataset available here:  
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
